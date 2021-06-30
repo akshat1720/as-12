@@ -1,5 +1,6 @@
-def print_var():
-  print("hello")
+def print_var(x):
+  print(x)
 
-print_var()
+print_var("hello")
+
 
